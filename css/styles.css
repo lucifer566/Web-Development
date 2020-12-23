@@ -1,0 +1,21 @@
+body {
+  background-color: #fffde1;
+}
+img {
+
+   border-radius: 100%;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+h1{
+     color: rgb(131, 36, 1);
+     font-family:cursive;
+ }
+ h3{
+   color: coral;
+}
